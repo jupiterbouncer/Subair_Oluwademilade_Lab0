@@ -1,7 +1,7 @@
 """
 environment_test.py
 Lab 0 - Environment Verification Script
-Verify that all required packages are installed and accessible.
+Verifying that all required packages are installed and accessible.
 """
 
 import sys
